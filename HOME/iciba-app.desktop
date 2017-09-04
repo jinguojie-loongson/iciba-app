@@ -1,0 +1,9 @@
+[Desktop Entry]
+Comment=iciba Application Community
+Comment[zh_CN]=金山词典
+Exec=/opt/iciba/find-chrome.sh -app=http://www.iciba.com
+Name=Application Community
+Name[zh_CN]=金山词典
+Type=Application
+Icon=/opt/iciba/iciba.png
+
